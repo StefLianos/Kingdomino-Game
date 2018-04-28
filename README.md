@@ -18,6 +18,10 @@ Be the player whose 5x5 kingdom earns them the highest number of points. Players
 
 ## How It Looks
 
+![alt text](https://github.com/StefLianos/Kingdomino-Game/blob/master/ReadmeMedia/Capture.PNG)
+
+![alt text](https://github.com/StefLianos/Kingdomino-Game/blob/master/ReadmeMedia/ezgif.com-video-to-gif.gif)
+
 
 ## Prerequisites
 
