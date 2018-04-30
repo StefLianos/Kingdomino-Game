@@ -4,7 +4,7 @@ This project is an implementation of the board game [Kingdomino](https://en.wiki
 It also includes multiple AI agents that follow a pre-determined strategy.
 
 Note:
-This is not meant to be a complete game but a tool to analyze the rule set,  strategies and matchups !
+**This is not meant to be a complete playable game but a tool with just enough features to analyze the rule set, strategies and matchups !**
 
 ## The Goal
 
