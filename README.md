@@ -5,7 +5,7 @@ It also includes multiple AI agents that follow a pre-determined strategy.
 
 Note:
 **This is not meant to be a complete playable game but a tool with just enough features to analyze the rule set, strategies and matchups !**
-**It is also curerently set to play a best of 100 !**
+**It is also currently set to play a best of 100 !**
 
 ## The Goal
 
